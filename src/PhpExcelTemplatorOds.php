@@ -1,7 +1,7 @@
 <?php
 
 
-namespace alhimik1986\PhpExcelTemplator;
+namespace SDpro\PhpExcelTemplator;
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Reader\Ods;

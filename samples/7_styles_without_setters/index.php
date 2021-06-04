@@ -2,8 +2,8 @@
 
 require( __DIR__ . '/../Bootstrap.php');
 
-use alhimik1986\PhpExcelTemplator\PhpExcelTemplator;
-use alhimik1986\PhpExcelTemplator\params\CallbackParam;
+use SDpro\PhpExcelTemplator\PhpExcelTemplator;
+use SDpro\PhpExcelTemplator\params\CallbackParam;
 
 $templateFile = './template.xlsx';
 $fileName = './exported_file.xlsx';
